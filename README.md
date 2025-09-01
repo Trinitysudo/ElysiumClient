@@ -26,7 +26,7 @@ This makes it significantly harder for anti-cheats to detect.
 ---
 
 ## 🚀 Quick Start
-1. Download the latest Source Code  
+1. Download the latest Source Code Run the Run_Elysium.bat 
 2. Run it — no setup required  
 
 ---
@@ -37,4 +37,5 @@ This makes it significantly harder for anti-cheats to detect.
 ```bash
 git clone https://github.com/your-username/elysium.git
 cd elysium
+
 
