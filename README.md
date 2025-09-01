@@ -26,7 +26,7 @@ This makes it significantly harder for anti-cheats to detect.
 ---
 
 ## 🚀 Quick Start
-1. Download the latest `Elysium.exe` from the **dist/** folder  
+1. Download the latest Source Code  
 2. Run it — no setup required  
 
 ---
@@ -37,3 +37,4 @@ This makes it significantly harder for anti-cheats to detect.
 ```bash
 git clone https://github.com/your-username/elysium.git
 cd elysium
+
