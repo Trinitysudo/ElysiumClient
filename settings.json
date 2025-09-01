@@ -1,0 +1,46 @@
+{
+  "anchor_aura": {
+    "aura_type": "Air Place",
+    "humanization": "15",
+    "activation_key": "y",
+    "anchor_key": "x",
+    "glowstone_key": "c",
+    "mainhand_key": "capslock",
+    "aura_mode": true,
+    "repeat_delay": "250",
+    "enabled": false
+  },
+  "auto_totem": {
+    "hotkey": "f4",
+    "confidence_threshold": 0.9,
+    "mouse_duration_ms": 50,
+    "action_delay_ms": 25,
+    "gui_render_delay_ms": 10,
+    "humanization_factor": 0.3,
+    "enabled": true
+  },
+  "config": {
+    "minecraft_path": "C:\\Users\\drewm\\AppData\\Roaming\\.minecraft",
+    "minecraft_version": "1.21",
+    "mod_loader": "fabric"
+  },
+  "crystal_aura": {
+    "hotkey": "h",
+    "place_break_delay": "30",
+    "cycle_delay": "20",
+    "ac_delay": "6",
+    "humanization": "15",
+    "color_tolerance": "25",
+    "cal_pixel_x": "809",
+    "cal_pixel_y": "974",
+    "cal_activation_color": "[161, 182, 165]",
+    "enabled": true,
+    "place_delay": "25",
+    "packet_mode": true,
+    "strict_timing": false,
+    "fast_clicks": true,
+    "calibration_timeout": 20,
+    "pixel_sampling": 3,
+    "cal_confidence": "0"
+  }
+}
