@@ -1,45 +1,39 @@
-# 🤖 Elysium: Minecraft Anarchy Client
+# 🤖 Elysium
 
-Welcome to the official GitHub repository for **Elysium**, an advanced and external Minecraft Anarchy Client.  
-Designed to give you a competitive edge, Elysium provides powerful automation modules like **Crystal Aura** and **Auto Totem**, all running seamlessly alongside your game.  
-Its modular design makes it easy to add and remove new features, all controlled through a sleek, standalone application.
-
----
-
-## 🛡️ Why Elysium is Undetected
-Elysium is built from the ground up to be an **external client**.  
-Unlike traditional clients that inject into the game process, Elysium operates completely outside of Minecraft.  
-
-This unique approach means it does not modify the game's memory or code, making it significantly harder for anti-cheat systems to detect.
-
-- **Zero Injection**: Elysium never touches the Minecraft process.  
-- **Safe & Secure**: Your Minecraft account remains secure as you're not using a hacked client.  
-- **Minimal Footprint**: Designed to run in the background with minimal impact on game performance.  
+Elysium is an advanced external Minecraft client built for powerful automation modules such as **Crystal Aura** and **Auto Totem** — all running seamlessly alongside your game.  
+It’s undetected on **DonutSMP**, **V+**, **JackpotMC**, and **CrystalChaos**.
 
 ---
 
-## ✨ Key Features
-- **Crystal Aura** 💥: Automatically places and explodes End Crystals for maximum PvP damage.  
-- **Auto Totem** 🛡️: Instantly swaps a totem of undying into your offhand to prevent death.  
-- **Cross-Platform UI** 💻: Built with Eel for a sleek, web-based desktop experience.  
-- **Hot-key Integration** ⌨️: Trigger modules and actions with custom global hotkeys.  
-- **Effortless Distribution** 🚀: Packaged into a single executable — no Python required!  
-- **Real-time Logging** 📝: Comprehensive logs to monitor module activity and debug issues.  
+## 🛡️ Why It’s Undetected
+Unlike traditional injected clients, Elysium runs **externally** — it never touches Minecraft’s process or memory.  
+This makes it significantly harder for anti-cheats to detect.
+
+- **Zero Injection** – Never interacts with the game process  
+- **Secure** – Your account stays safe  
+- **Lightweight** – Minimal impact on performance  
 
 ---
 
-## 🚀 Getting Started (For Clients & End-Users)
-
-1. **Download**: Grab the latest `Elysium.exe` from the `dist` folder.  
-2. **Run**: Double-click the executable to launch the application.  
+## ✨ Features
+- **Crystal Aura** 💥 – Places & explodes crystals automatically for maximum PvP damage  
+- **Auto Totem** 🛡️ – Keeps a totem of undying in your offhand at all times  
+- **Web-Based UI** 💻 – Clean, cross-platform interface built with Eel  
+- **Hotkeys** ⌨️ – Trigger modules instantly with global shortcuts  
+- **One-File Build** 🚀 – Distributed as a single executable (no Python required)  
+- **Logging** 📝 – Real-time module activity tracking  
 
 ---
 
-## 🛠️ For Developers
+## 🚀 Quick Start
+1. Download the latest `Elysium.exe` from the **dist/** folder  
+2. Run it — no setup required  
 
-Interested in contributing or building your own modules? Here’s how to set up the development environment:
+---
 
-### 1. Clone the Repository
+## 🛠️ Developer Setup
+
+### 1. Clone
 ```bash
 git clone https://github.com/your-username/elysium.git
 cd elysium
