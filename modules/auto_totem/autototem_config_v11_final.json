@@ -1,0 +1,20 @@
+{
+    "inventory_region": {
+        "left": 712,
+        "top": 519,
+        "width": 497,
+        "height": 175
+    },
+    "offhand_coords": [
+        950,
+        482
+    ],
+    "mainhand_coords": [
+        959,
+        722
+    ],
+    "inventory_marker_coords": [
+        1036,
+        484
+    ]
+}

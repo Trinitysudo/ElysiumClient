@@ -1,0 +1,26 @@
+{
+    "inventory_region": {
+        "left": 703,
+        "top": 289,
+        "width": 511,
+        "height": 476
+    },
+    "offhand_coords": [
+        950,
+        485
+    ],
+    "mainhand_slot_coords": [
+        961,
+        725
+    ],
+    "inventory_marker_coords": [
+        1032,
+        315
+    ],
+    "settings": {
+        "detection_threshold": 0.8,
+        "check_interval": 0.05,
+        "move_duration": 0.07,
+        "hotkey": "f4"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "inventory_region": {
+        "left": 711,
+        "top": 516,
+        "width": 498,
+        "height": 180
+    },
+    "inventory_marker_coords": [
+        1040,
+        483
+    ],
+    "totem_inv_coords": [
+        960,
+        548
+    ],
+    "offhand_coords": [
+        952,
+        482
+    ],
+    "mainhand_coords": [
+        961,
+        723
+    ]
+}
